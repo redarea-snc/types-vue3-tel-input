@@ -1,0 +1,66 @@
+{
+  "_from": "@types/vue3-tel-input@npm:@redarea-snc/vue3-tel-input@^1.0.1",
+  "_id": "@redarea-snc/vue3-tel-input@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-7UsmP2JALnkfWlheuWRDywuBUTLJcVPE86X5ogA3djUmYFybE6qximgQ7OgyJnrKLteWR7+1Cp0GUXHhdDKaDQ==",
+  "_location": "/@types/vue3-tel-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "alias",
+    "registry": true,
+    "raw": "@types/vue3-tel-input@npm:@redarea-snc/vue3-tel-input@^1.0.1",
+    "name": "@types/vue3-tel-input",
+    "escapedName": "@types%2fvue3-tel-input",
+    "scope": "@types",
+    "rawSpec": "npm:@redarea-snc/vue3-tel-input@^1.0.1",
+    "saveSpec": null,
+    "fetchSpec": null,
+    "subSpec": {
+      "type": "range",
+      "registry": true,
+      "raw": "@redarea-snc/vue3-tel-input@^1.0.1",
+      "name": "@redarea-snc/vue3-tel-input",
+      "escapedName": "@redarea-snc%2fvue3-tel-input",
+      "scope": "@redarea-snc",
+      "rawSpec": "^1.0.1",
+      "saveSpec": null,
+      "fetchSpec": "^1.0.1"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@redarea-snc/vue3-tel-input/-/vue3-tel-input-1.0.1.tgz",
+  "_shasum": "75116ef9b091457a654d92ff0688e991b3cd9e8a",
+  "_spec": "@types/vue3-tel-input@npm:@redarea-snc/vue3-tel-input@^1.0.1",
+  "_where": "C:\\RikordaAppVue",
+  "author": {
+    "name": "Luca Chiavelli"
+  },
+  "bugs": {
+    "url": "https://github.com/redarea-snc/types-vue3-tel-input/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "typescript declaration for vue3-tel-input 2 with vue 3",
+  "homepage": "https://github.com/redarea-snc/types-vue3-tel-input/#README.md",
+  "keywords": [
+    "@types/vue3-tel-input",
+    "@redarea-snc/vue3-tel-input",
+    "vue3-tel-input",
+    "typescript",
+    "tel-input",
+    "vue3",
+    "vue"
+  ],
+  "license": "MIT",
+  "main": "index.d.ts",
+  "name": "@redarea-snc/vue3-tel-input",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redarea-snc/types-vue3-tel-input.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}
